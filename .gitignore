@@ -48,3 +48,5 @@ Thumbs.db
 
 # Environment files
 .env
+audit_bundle*.txt
+audit_part2.txt

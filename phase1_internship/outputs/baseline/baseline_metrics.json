@@ -1,0 +1,18 @@
+{
+    "model": "EfficientNet-B3",
+    "device": "cpu",
+    "test_samples": 501,
+    "accuracy": 0.8403193612774451,
+    "macro_precision": 0.8088200811627121,
+    "macro_recall": 0.7129255605801447,
+    "macro_f1": 0.7276621174785703,
+    "class_to_idx": {
+        "akiec": 0,
+        "bcc": 1,
+        "bkl": 2,
+        "df": 3,
+        "mel": 4,
+        "nv": 5,
+        "vasc": 6
+    }
+}
