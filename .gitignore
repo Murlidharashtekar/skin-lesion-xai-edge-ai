@@ -50,3 +50,6 @@ Thumbs.db
 .env
 audit_bundle*.txt
 audit_part2.txt
+
+phase2_research/outputs/**/*.pth
+phase2_research/outputs/*.zip
